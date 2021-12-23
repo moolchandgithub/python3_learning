@@ -1,0 +1,32 @@
+[
+    {
+        "type": "Rectangle",
+        "area": 21,
+        "perimeter": 20
+    },
+    {
+        "type": "Rectangle",
+        "area": 25,
+        "perimeter": 20
+    },
+    {
+        "type": "Rectangle",
+        "area": 6,
+        "perimeter": 14
+    },
+    {
+        "type": "Circle",
+        "area": 201.06,
+        "perimeter": 50.27
+    },
+    {
+        "type": "Circle",
+        "area": 78.54,
+        "perimeter": 31.42
+    },
+    {
+        "type": "Triangle",
+        "area": 27.71,
+        "perimeter": 24
+    }
+]
